@@ -1,0 +1,1 @@
+This error occurs when using Expo's `Linking` API to handle deep links.  The `Linking.addEventListener` method might not be properly handling the deep link event, or the event might not be fired at all. This often occurs in complex applications or when navigating between different screens frequently.
